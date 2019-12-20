@@ -1,0 +1,64 @@
+{
+    "name": "TrustCloud",
+    "description": "Trust (https:\/\/t.co\/EOK0Nlf6Ns) in the Sharing Economy.We guarantee your satisfaction in sharing economy transactions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1279-trustcloud.jpg",
+    "tags": [
+        "have api",
+        "identities",
+        "ranking",
+        "rankings",
+        "social",
+        "trust"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trustcloud\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TrustCloud",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1279-trustcloud.jpg",
+            "humanURL": "https:\/\/trustcloud.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trustcloud-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.trustcloud.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/trustcloud.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trustcloud"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trustcloud"
+        },
+        {
+            "type": "Email",
+            "url": "support@trustcloud.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/trustcloud"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/trustcloud.com\/"
+        }
+    ]
+}
